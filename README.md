@@ -1,6 +1,6 @@
 ### 
 ![Andrews's github stats](https://github-readme-stats.vercel.app/api?username=excisionhd&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=excisionhd&layout=compact)](https://github.com/excisionhd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=excisionhd&layout=compact&hide=html,jupyter,css)](https://github.com/excisionhd/github-readme-stats)
 <!--
 **excisionhd/excisionhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
