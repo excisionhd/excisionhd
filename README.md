@@ -1,5 +1,5 @@
 ### 
-![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=excisionhd&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=excisionhd&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)
 <!--
 **excisionhd/excisionhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
